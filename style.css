@@ -1,0 +1,43 @@
+body {
+  background-color:black;
+  font-family:arial;
+  color:white
+}
+
+h1 {
+  color:grey;
+  font-family:verdana
+}
+
+.maindiv {
+    background-color:white;
+    color:black;
+    width:500px;
+    padding:20px;
+    border-radius:25px;
+}
+
+
+.center {
+    width:400px;
+    padding:20px;
+    margin-left:25px;
+  }
+
+  #principal {
+    margin-left:60px;
+  }
+
+  #rate {
+    margin-left:23px;
+  }
+
+  #years {
+    margin-left:30px;
+  }
+
+  #result2, #result4, #result6, #result8 {
+    background-color: yellow;
+  }
+
+
